@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+#nav{
+    background-color: rgb(19, 72, 90);
+}
+
+#input{
+   
+      height: 40px;
+}
+#org-string{
+    background-color: rgb(19, 72, 90);
+    
+}
+#input-f,#org-string{
+    height: 100px;
+    padding-top: 30px;
+}
+#btn1:hover{
+    background-color:rgb(19, 72, 90); 
+    color: white;
+
+}
+#btn1{
+height: 42px;
+}
+
+
+#org-string{
+    background-color:rgb(19, 72, 90);  
+}
+#btn{
+    width:270px ;
+    
+}
+
+#result{
+    height: 250px;
+}
+.footer{
+    margin-top: 150px;
+}
+#footer-data{
+    background-color:rgb(19, 72, 90) ;
+}
+#output-clr:hover{
+    background-color:rgb(19, 72, 90) ;
+    color: white;
+
+}
+#result{
+    overflow: auto;
+    
+}
